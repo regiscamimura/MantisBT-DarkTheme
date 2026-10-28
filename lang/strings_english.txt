@@ -1,0 +1,5 @@
+<?php
+$s_plugin_DarkTheme_title = 'Dark Theme';
+$s_plugin_DarkTheme_description = 'Light / dark theme switch in the top bar.';
+$s_plugin_DarkTheme_switch_to_dark = 'Switch to dark theme';
+$s_plugin_DarkTheme_switch_to_light = 'Switch to light theme';
